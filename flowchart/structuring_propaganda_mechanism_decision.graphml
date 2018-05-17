@@ -506,7 +506,7 @@ oversimplification<y:LabelModel>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="484.5606597222235" y="229.65707849174754"/>
-          <y:Fill hasColor="false" transparent="false"/>
+          <y:Fill color="#FF6600" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="89.01953125" x="0.990234375" y="10.93359375">pensée unique<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -1786,7 +1786,6 @@ and meaningful discussion<y:LabelModel>
       </data>
     </edge>
     <edge id="e49" source="n50" target="n5">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1806,7 +1805,6 @@ and meaningful discussion<y:LabelModel>
       </data>
     </edge>
     <edge id="e50" source="n50" target="n6">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1826,7 +1824,6 @@ and meaningful discussion<y:LabelModel>
       </data>
     </edge>
     <edge id="e51" source="n50" target="n41">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
