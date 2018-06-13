@@ -100,6 +100,7 @@ attacked/diminished<y:LabelModel>
       </data>
     </node>
     <node id="n5">
+      <data key="d4"><![CDATA[definitions.html#discrediting_others_quality_appearance]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="127.0" x="-83.3458660680883" y="530.8234627316237"/>
@@ -134,7 +135,7 @@ emotional words<y:LabelModel>
       </data>
     </node>
     <node id="n7">
-      <data key="d4"/>
+      <data key="d4"><![CDATA[definitions.html#emotional_words]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="380.0" y="846.7679166019611"/>
@@ -152,6 +153,7 @@ words<y:LabelModel>
       </data>
     </node>
     <node id="n8">
+      <data key="d4"><![CDATA[definitions.html#loaded_language]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="380.0" y="774.8754856008904"/>
@@ -169,12 +171,13 @@ language<y:LabelModel>
       </data>
     </node>
     <node id="n9">
+      <data key="d4"><![CDATA[definitions.html#minimization]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="300.0" y="876.7065707401252"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.779296875" x="0.1103515625" y="10.93359375">minimisation<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="80.541015625" x="-0.2705078125" y="10.93359375">minimization<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -185,6 +188,7 @@ language<y:LabelModel>
       </data>
     </node>
     <node id="n10">
+      <data key="d4"><![CDATA[definitions.html#exaggeration]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="226.60195959247238" y="774.8754856008904"/>
@@ -201,6 +205,7 @@ language<y:LabelModel>
       </data>
     </node>
     <node id="n11">
+      <data key="d4"><![CDATA[definitions.html#patriotic]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="226.60195959247238" y="846.7679166019611"/>
@@ -217,6 +222,7 @@ language<y:LabelModel>
       </data>
     </node>
     <node id="n12">
+      <data key="d4"><![CDATA[definitions.html#doubt]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="-147.85245672808497" y="841.5601851966679"/>
@@ -233,6 +239,7 @@ language<y:LabelModel>
       </data>
     </node>
     <node id="n13">
+      <data key="d4"><![CDATA[definitions.html#appeal_to_fear]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="-1.9598358249572954" y="774.8754856008904"/>
@@ -250,6 +257,7 @@ to fear<y:LabelModel>
       </data>
     </node>
     <node id="n14">
+      <data key="d4"><![CDATA[definitions.html#appeal_to_prejudice]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="-70.0" y="876.7065707401252"/>
@@ -267,6 +275,7 @@ prejudice<y:LabelModel>
       </data>
     </node>
     <node id="n15">
+      <data key="d4"><![CDATA[definitions.html#slogans]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="10.0" y="846.7679166019611"/>
@@ -421,6 +430,7 @@ the problem...<y:LabelModel>
       </data>
     </node>
     <node id="n24">
+      <data key="d4"><![CDATA[definitions.html#obfuscation_intentional_vagueness_confusion]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="148.55069444444496" x="455.7853125000009" y="122.83251671006568"/>
@@ -438,6 +448,7 @@ vagueness, confusion<y:LabelModel>
       </data>
     </node>
     <node id="n25">
+      <data key="d4"><![CDATA[definitions.html#associating_guilt_to_someone_something]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="138.63643121960337" x="471.55822916666807" y="12.152648654510784"/>
@@ -455,6 +466,7 @@ someone/something<y:LabelModel>
       </data>
     </node>
     <node id="n26">
+      <data key="d4"><![CDATA[definitions.html#reducing_multiple_causes]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="114.0" x="490.3360069444459" y="70.0"/>
@@ -472,6 +484,7 @@ causes<y:LabelModel>
       </data>
     </node>
     <node id="n27">
+      <data key="d4"><![CDATA[definitions.html#pensee_unique]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="513.3360069444459" y="229.65707849174754"/>
@@ -488,12 +501,13 @@ causes<y:LabelModel>
       </data>
     </node>
     <node id="n28">
+      <data key="d4"><![CDATA[definitions.html#black_and_white_fallacy]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
-          <y:Geometry height="40.0" width="98.73662551440327" x="505.59938143004257" y="276.26940679339805"/>
+          <y:Geometry height="40.0" width="108.87116412371472" x="495.4648428207311" y="276.26940679339805"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.455078125" x="-3.359226305298364" y="3.8671875">black-and-white 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.455078125" x="1.7080429993573603" y="3.8671875">black-and-white 
 fallacy <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -540,6 +554,7 @@ the argument	<y:LabelModel>
       </data>
     </node>
     <node id="n31">
+      <data key="d4"><![CDATA[definitions.html#whataboutism]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="58.88867534722175" y="39.98238754339937"/>
@@ -556,6 +571,7 @@ the argument	<y:LabelModel>
       </data>
     </node>
     <node id="n32">
+      <data key="d4"><![CDATA[definitions.html#presenting_irrelevant_data]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="102.52799999999996" x="47.360675347221786" y="88.71238754339947"/>
@@ -573,6 +589,7 @@ irrelevant data<y:LabelModel>
       </data>
     </node>
     <node id="n33">
+      <data key="d4"><![CDATA[definitions.html#misrepresentation_of_someone_position]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="138.0246913580247" x="11.863983989197038" y="-8.747612456600734"/>
@@ -658,6 +675,7 @@ Let us analyze it!<y:LabelModel>
       </data>
     </node>
     <node id="n37">
+      <data key="d4"><![CDATA[definitions.html#dictatorship]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="513.3360069444459" y="322.88173509504855"/>
@@ -674,6 +692,7 @@ Let us analyze it!<y:LabelModel>
       </data>
     </node>
     <node id="n38">
+      <data key="d4"><![CDATA[definitions.html#appeal_to_authority]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="125.1777180555548" x="479.1582888888911" y="178.17245073784312"/>
@@ -690,6 +709,7 @@ Let us analyze it!<y:LabelModel>
       </data>
     </node>
     <node id="n39">
+      <data key="d4"><![CDATA[definitions.html#name_calling]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="-58.74792507568006" y="639.0211762177656"/>
@@ -707,7 +727,7 @@ calling<y:LabelModel>
       </data>
     </node>
     <node id="n40">
-      <data key="d4"><![CDATA[http://www.yahoo.com]]></data>
+      <data key="d4"><![CDATA[definitions.html#cognitive_dissonance]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="407.4484535000008" y="631.8530352798618"/>
@@ -725,6 +745,7 @@ dissonance<y:LabelModel>
       </data>
     </node>
     <node id="n41">
+      <data key="d4"><![CDATA[definitions.html#thought_terminating_cliche]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="132.77777777777783" x="471.55822916666807" y="382.65356944444454"/>
@@ -742,7 +763,7 @@ cliché<y:LabelModel>
       </data>
     </node>
     <node id="n42">
-      <data key="d4"><![CDATA[README]]></data>
+      <data key="d4"><![CDATA[definitions.html#bandwagon]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="299.3082660000008" y="631.8530352798618"/>
@@ -759,6 +780,7 @@ cliché<y:LabelModel>
       </data>
     </node>
     <node id="n43">
+      <data key="d4"><![CDATA[definitions.html#reduction_ad_hitlerum]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="199.08465000000075" y="631.8530352798618"/>
@@ -794,6 +816,7 @@ an argument?<y:LabelModel>
       </data>
     </node>
     <node id="n45">
+      <data key="d4"><![CDATA[definitions.html#testimonial]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="-58.74792507568006" y="415.9940395635591"/>
@@ -810,6 +833,7 @@ an argument?<y:LabelModel>
       </data>
     </node>
     <node id="n46">
+      <data key="d4"><![CDATA[definitions.html#repetition]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="-138.20215854969211" y="774.8754856008904"/>
@@ -1320,10 +1344,10 @@ subset of the options<y:LabelModel>
     <edge id="e24" source="n23" target="n28">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-48.5492300206682" ty="5.6843418860808015E-14"/>
+          <y:Path sx="0.0" sy="0.0" tx="-53.53242691982729" ty="5.6843418860808015E-14"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="19.643554636462397" y="27.999997613710605">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="14.632773368916048" y="27.999997613710605">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
