@@ -100,14 +100,15 @@ attacked/diminished<y:LabelModel>
       </data>
     </node>
     <node id="n5">
-      <data key="d4"><![CDATA[definitions.html#discrediting_others_quality_appearance]]></data>
+      <data key="d4"><![CDATA[definitions.html#stereotyping_name_calling_or_labeling]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
-          <y:Geometry height="40.0" width="127.0" x="-83.3458660680883" y="530.8234627316237"/>
+          <y:Geometry height="40.0" width="127.0" x="-63.5" y="581.8233809961669"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="121.19921875" x="2.900390625" y="3.8671875">discrediting others’ 
-quality/appearance<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="46.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.462890625" x="20.7685546875" y="-3.19921875">stereotyping, 
+name calling, 
+or labeling<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -171,13 +172,13 @@ language<y:LabelModel>
       </data>
     </node>
     <node id="n9">
-      <data key="d4"><![CDATA[definitions.html#minimization]]></data>
+      <data key="d4"><![CDATA[definitions.html#minimisation]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="300.0" y="876.7065707401252"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="80.541015625" x="-0.2705078125" y="10.93359375">minimization<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.779296875" x="0.1103515625" y="10.93359375">minimisation<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -205,13 +206,13 @@ language<y:LabelModel>
       </data>
     </node>
     <node id="n11">
-      <data key="d4"><![CDATA[definitions.html#patriotic]]></data>
+      <data key="d4"><![CDATA[definitions.html#flag-waving]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="226.60195959247238" y="846.7679166019611"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.521484375" x="13.7392578125" y="10.93359375">patriotic<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.416015625" x="3.2919921875" y="10.93359375">flag-waving<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -466,14 +467,14 @@ someone/something<y:LabelModel>
       </data>
     </node>
     <node id="n26">
-      <data key="d4"><![CDATA[definitions.html#reducing_multiple_causes]]></data>
+      <data key="d4"><![CDATA[definitions.html#causal_oversimplification]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="114.0" x="490.3360069444459" y="70.0"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.517578125" x="1.7412109375" y="3.8671875">reducing multiple 
-causes<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="107.88671875" x="3.056640625" y="3.8671875">causal 
+oversimplification<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -488,7 +489,7 @@ causes<y:LabelModel>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="513.3360069444459" y="229.65707849174754"/>
-          <y:Fill color="#FF6600" transparent="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="89.01953125" x="0.990234375" y="10.93359375">pensée unique<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -501,7 +502,7 @@ causes<y:LabelModel>
       </data>
     </node>
     <node id="n28">
-      <data key="d4"><![CDATA[definitions.html#black_and_white_fallacy]]></data>
+      <data key="d4"><![CDATA[definitions.html#black-and-white_fallacy]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="108.87116412371472" x="495.4648428207311" y="276.26940679339805"/>
@@ -709,24 +710,6 @@ Let us analyze it!<y:LabelModel>
       </data>
     </node>
     <node id="n39">
-      <data key="d4"><![CDATA[definitions.html#name_calling]]></data>
-      <data key="d6">
-        <y:GenericNode configuration="com.yworks.flowchart.terminator">
-          <y:Geometry height="40.0" width="80.0" x="-58.74792507568006" y="639.0211762177656"/>
-          <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.109375" x="18.9453125" y="3.8671875">name 
-calling<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n40">
       <data key="d4"><![CDATA[definitions.html#cognitive_dissonance]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
@@ -744,12 +727,12 @@ dissonance<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n41">
-      <data key="d4"><![CDATA[definitions.html#thought_terminating_cliche]]></data>
+    <node id="n40">
+      <data key="d4"><![CDATA[definitions.html#thought-terminating_cliche]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="132.77777777777783" x="471.55822916666807" y="382.65356944444454"/>
-          <y:Fill color="#FF6600" transparent="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="124.83203125" x="3.972873263888914" y="3.8671875">thought-terminating
 cliché<y:LabelModel>
@@ -762,7 +745,7 @@ cliché<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n42">
+    <node id="n41">
       <data key="d4"><![CDATA[definitions.html#bandwagon]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
@@ -779,12 +762,12 @@ cliché<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n43">
+    <node id="n42">
       <data key="d4"><![CDATA[definitions.html#reduction_ad_hitlerum]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="199.08465000000075" y="631.8530352798618"/>
-          <y:Fill color="#FF6600" transparent="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.84375" x="3.078125" y="3.8671875">reductio ad 
 hitlerum<y:LabelModel>
@@ -797,7 +780,7 @@ hitlerum<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n44">
+    <node id="n43">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.decision">
           <y:Geometry height="74.47111111111116" width="193.57245833333323" x="-115.96082090901334" y="316.18515067467024"/>
@@ -815,7 +798,7 @@ an argument?<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n45">
+    <node id="n44">
       <data key="d4"><![CDATA[definitions.html#testimonial]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
@@ -832,7 +815,7 @@ an argument?<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n46">
+    <node id="n45">
       <data key="d4"><![CDATA[definitions.html#repetition]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
@@ -849,27 +832,10 @@ an argument?<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n47">
+    <node id="n46">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.onPageReference">
           <y:Geometry height="16.250000000000114" width="32.50000000000023" x="273.4242257222231" y="546.6722512520846"/>
-          <y:Fill color="#000000" color2="#000000" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="14.250000000000114" y="6.125">
-            <y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n48">
-      <data key="d6">
-        <y:GenericNode configuration="com.yworks.flowchart.onPageReference">
-          <y:Geometry height="16.250000000000114" width="32.50000000000023" x="-36.09586606808841" y="596.7973194746946"/>
           <y:Fill color="#000000" color2="#000000" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="14.250000000000114" y="6.125">
@@ -1066,17 +1032,20 @@ concrete argument<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e10" source="n4" target="n48">
+    <edge id="e10" source="n4" target="n5">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="63.40819797110684" sy="6.895719038521988E-14" tx="0.0" ty="0.0"/>
+          <y:Path sx="63.40819797110684" sy="6.895719038521988E-14" tx="-18.84743846754884" ty="2.5566668580090663">
+            <y:Point x="-74.27080144210038" y="604.7889585687506"/>
+            <y:Point x="-74.27080144210038" y="604.3800478541759"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.884765625" x="5.6277420229430675" y="-19.05885519595472">by means of<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#008000" verticalTextPosition="bottom" visible="true" width="24.8125" x="4.9873245307064735" y="-19.114963937253833">yes<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.048575826316872" distanceToCenter="true" position="left" ratio="6.936960798104494" segment="-3"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.048575826316872" distanceToCenter="true" position="left" ratio="0.0" segment="0"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -1592,7 +1561,7 @@ from a reference<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e39" source="n44" target="n0">
+    <edge id="e39" source="n43" target="n0">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1612,7 +1581,7 @@ from a reference<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e40" source="n36" target="n44">
+    <edge id="e40" source="n36" target="n43">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="40.31301873107998" sy="5.527324444444446" tx="-87.99648891606644" ty="0.0">
@@ -1625,7 +1594,7 @@ from a reference<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e41" source="n47" target="n42">
+    <edge id="e41" source="n46" target="n41">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="6.298318750000362" tx="-1.5533402777790002" ty="15.58674572222401">
@@ -1646,7 +1615,7 @@ from a reference<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e42" source="n44" target="n45">
+    <edge id="e42" source="n43" target="n44">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-0.4266666666666623" ty="0.0"/>
@@ -1664,7 +1633,7 @@ from a reference<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e43" source="n19" target="n46">
+    <edge id="e43" source="n19" target="n45">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1683,7 +1652,7 @@ from a reference<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e44" source="n16" target="n40">
+    <edge id="e44" source="n16" target="n39">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.08035555555557039" ty="0.0"/>
@@ -1702,7 +1671,7 @@ single reference<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e45" source="n16" target="n47">
+    <edge id="e45" source="n16" target="n46">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-0.10155555555559204"/>
@@ -1721,7 +1690,7 @@ a crowd<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e46" source="n22" target="n41">
+    <edge id="e46" source="n22" target="n40">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1742,7 +1711,7 @@ and meaningful discussion<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e47" source="n47" target="n43">
+    <edge id="e47" source="n46" target="n42">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-0.48298991666649727" ty="15.58674572222401">
@@ -1759,26 +1728,6 @@ and meaningful discussion<y:LabelModel>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e48" source="n48" target="n5">
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e49" source="n48" target="n39">
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
