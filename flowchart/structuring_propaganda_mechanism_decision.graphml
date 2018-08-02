@@ -101,6 +101,11 @@ attacked/diminished<y:LabelModel>
     </node>
     <node id="n5">
       <data key="d4"><![CDATA[definitions.html#stereotyping_name_calling_or_labeling]]></data>
+      <data key="d5"><![CDATA[Attempting to arouse prejudices in
+ an audience by labeling the object
+ of the propaganda campaign as
+ something the target audience
+ fears, hates, or finds undesirable]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="127.0" x="-63.5" y="581.8233809961669"/>
@@ -137,6 +142,10 @@ emotional words<y:LabelModel>
     </node>
     <node id="n7">
       <data key="d4"><![CDATA[definitions.html#loaded_language]]></data>
+      <data key="d5"><![CDATA[Using specific words and phrases
+ with strong emotional implications to
+ influence an audience
+]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="380.0" y="774.8754856008904"/>
@@ -155,6 +164,8 @@ language<y:LabelModel>
     </node>
     <node id="n8">
       <data key="d4"><![CDATA[definitions.html#minimisation]]></data>
+      <data key="d5"><![CDATA[Making something seem less
+ important or smaller than it really is]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="380.0" y="841.5601851966679"/>
@@ -172,6 +183,8 @@ language<y:LabelModel>
     </node>
     <node id="n9">
       <data key="d4"><![CDATA[definitions.html#exaggeration]]></data>
+      <data key="d5"><![CDATA[Representation of something in an
+ excessive manner]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="226.60195959247238" y="774.8754856008904"/>
@@ -189,6 +202,9 @@ language<y:LabelModel>
     </node>
     <node id="n10">
       <data key="d4"><![CDATA[definitions.html#flag-waving]]></data>
+      <data key="d5"><![CDATA[Justifying an action based on the
+ undue connection to nationalism or
+ patriotism]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="226.60195959247238" y="846.7679166019611"/>
@@ -206,6 +222,8 @@ language<y:LabelModel>
     </node>
     <node id="n11">
       <data key="d4"><![CDATA[definitions.html#doubt]]></data>
+      <data key="d5"><![CDATA[Questioning something or someone's
+ credibility]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="-147.85245672808497" y="841.5601851966679"/>
@@ -242,6 +260,10 @@ prejudice<y:LabelModel>
     </node>
     <node id="n13">
       <data key="d4"><![CDATA[definitions.html#slogans]]></data>
+      <data key="d5"><![CDATA[A brief and striking phrase that may
+ include labeling and stereotyping.
+ Slogans tend to act only as
+ emotional appeals]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="-10.0" y="774.8754856008904"/>
@@ -364,7 +386,7 @@ further checking<y:LabelModel>
     <node id="n20">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.decision">
-          <y:Geometry height="57.0" width="170.7031249999999" x="159.6054327729559" y="-52.833086458337306"/>
+          <y:Geometry height="57.0" width="170.7031249999999" x="165.21492264853163" y="-52.833086458337306"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="112.837890625" x="28.932617187499943" y="12.53125">it tries to simplify 
@@ -397,6 +419,12 @@ the problem...<y:LabelModel>
     </node>
     <node id="n22">
       <data key="d4"><![CDATA[definitions.html#obfuscation_intentional_vagueness_confusion]]></data>
+      <data key="d5"><![CDATA[Moving the audience by using
+ undefined phrases, without
+ analyzing their validity or
+ attempting to determine their
+ reasonableness or application.
+]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="148.55069444444496" x="455.7853125000009" y="122.83251671006568"/>
@@ -433,6 +461,11 @@ someone/something<y:LabelModel>
     </node>
     <node id="n24">
       <data key="d4"><![CDATA[definitions.html#causal_oversimplification]]></data>
+      <data key="d5"><![CDATA[Providing one single simple cause for a complex problem.
+Example: “President Trump has been in office for a month and 
+gas prices have been skyrocketing. 
+The rise in gas prices is because
+ of President Trump.”]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="114.0" x="490.3360069444459" y="70.0"/>
@@ -451,6 +484,9 @@ oversimplification<y:LabelModel>
     </node>
     <node id="n25">
       <data key="d4"><![CDATA[definitions.html#pensee_unique]]></data>
+      <data key="d5"><![CDATA[Enforced reduction of discussion by
+ use of overly simplistic phrases or
+ arguments]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="513.3360069444459" y="229.65707849174754"/>
@@ -468,6 +504,9 @@ oversimplification<y:LabelModel>
     </node>
     <node id="n26">
       <data key="d4"><![CDATA[definitions.html#black-and-white_fallacy]]></data>
+      <data key="d5"><![CDATA[Presenting two alternative options as
+ the only possibilities, when in fact
+ more possibilities exist]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="108.87116412371472" x="495.4648428207311" y="276.26940679339805"/>
@@ -521,6 +560,14 @@ the argument	<y:LabelModel>
     </node>
     <node id="n29">
       <data key="d4"><![CDATA[definitions.html#whataboutism]]></data>
+      <data key="d5"><![CDATA[discredit an opponent's proposition by mentioning 
+an event that discredit the opponent or distract 
+the attention from the 
+main claim: ``What about...?''
+Example: a father asks his daughter about her 
+bad grades in University and 
+she says " What about you ?..... 
+you never went to university "]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="58.88867534722175" y="39.98238754339937"/>
@@ -538,6 +585,7 @@ the argument	<y:LabelModel>
     </node>
     <node id="n30">
       <data key="d4"><![CDATA[definitions.html#presenting_irrelevant_data]]></data>
+      <data key="d5"><![CDATA[Using data or issues that are irrelevant to validate an argument]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="102.52799999999996" x="47.360675347221786" y="88.71238754339947"/>
@@ -556,6 +604,12 @@ irrelevant data<y:LabelModel>
     </node>
     <node id="n31">
       <data key="d4"><![CDATA[definitions.html#misrepresentation_of_someone_position]]></data>
+      <data key="d5"><![CDATA[(straw men): when an opponent's proposition is substituted 
+with a similar one which is then refuted 
+in place of the original proposition. 
+Example: Student tells his professor that he thinks 
+some of Donald Trump's positions have merit. 
+Professor says he can't believe that the student believes in support racism]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="138.0246913580247" x="11.863983989197038" y="-8.747612456600734"/>
@@ -642,6 +696,11 @@ Let us analyze it!<y:LabelModel>
     </node>
     <node id="n35">
       <data key="d4"><![CDATA[definitions.html#dictatorship]]></data>
+      <data key="d5"><![CDATA[Simplify the decision making
+ process by using words to tell the
+ audience exactly what actions to
+ take, eliminating any other
+ possible choices]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="513.3360069444459" y="322.88173509504855"/>
@@ -659,6 +718,9 @@ Let us analyze it!<y:LabelModel>
     </node>
     <node id="n36">
       <data key="d4"><![CDATA[definitions.html#appeal_to_authority]]></data>
+      <data key="d5"><![CDATA[Cite prominent figures to support a
+ position, idea, argument, or course
+ of action]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="125.1777180555548" x="479.1582888888911" y="178.17245073784312"/>
@@ -676,6 +738,11 @@ Let us analyze it!<y:LabelModel>
     </node>
     <node id="n37">
       <data key="d4"><![CDATA[definitions.html#cognitive_dissonance]]></data>
+      <data key="d5"><![CDATA[Using someones’ else endorsement
+ of a candidate or a product to
+ change people's minds because
+ people cannot tolerate 
+inconsistency]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="407.4484535000008" y="631.8530352798618"/>
@@ -694,6 +761,9 @@ dissonance<y:LabelModel>
     </node>
     <node id="n38">
       <data key="d4"><![CDATA[definitions.html#thought-terminating_cliche]]></data>
+      <data key="d5"><![CDATA[Words or phrases that discourage
+ critical thought and meaningful
+ discussion about a given topic]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="132.77777777777783" x="471.55822916666807" y="382.65356944444454"/>
@@ -712,6 +782,10 @@ cliché<y:LabelModel>
     </node>
     <node id="n39">
       <data key="d4"><![CDATA[definitions.html#bandwagon]]></data>
+      <data key="d5"><![CDATA[Attempting to persuade the target
+ audience to join in and take the
+ course of action because "everyone
+ else is taking the same action"]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="299.3082660000008" y="631.8530352798618"/>
@@ -729,6 +803,12 @@ cliché<y:LabelModel>
     </node>
     <node id="n40">
       <data key="d4"><![CDATA[definitions.html#reduction_ad_hitlerum]]></data>
+      <data key="d5"><![CDATA[Persuading an audience to
+ disapprove an action or idea by
+ suggesting that the idea is
+ popular with groups hated in
+ contempt by the target audience
+]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="199.08465000000075" y="631.8530352798618"/>
@@ -765,6 +845,10 @@ an argument?<y:LabelModel>
     </node>
     <node id="n42">
       <data key="d4"><![CDATA[definitions.html#testimonial]]></data>
+      <data key="d5"><![CDATA[Quotations, in or out of context,
+ especially cited to support or reject
+ a given policy, action, program, or
+ personality]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="80.0" x="-58.74792507568006" y="415.9940395635591"/>
@@ -1164,7 +1248,7 @@ same topic<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="left" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="160.650390625" x="7.092408223564746" y="101.53160301797257">by stating obvious but 
+          <y:EdgeLabel alignment="left" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="160.650390625" x="2.1635599569631836" y="101.29905454270707">by stating obvious but 
 too abstract things<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -1185,7 +1269,7 @@ too abstract things<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="left" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="148.322265625" x="6.31264204254245" y="254.60337867755345">by presenting only a
+          <y:EdgeLabel alignment="left" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="148.322265625" x="1.0900315689096374" y="254.52674713153294">by presenting only a
 subset of the options<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -1351,7 +1435,7 @@ subset of the options<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.130859375" x="0.9873481985807189" y="5.272537508345614">neither<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.130859375" x="1.0078488163439374" y="5.272537508345614">neither<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1432,7 +1516,7 @@ subset of the options<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="left" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="183.47265625" x="6.876898698419495" y="20.46815291455289">by reducing a complex 
+          <y:EdgeLabel alignment="left" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="183.47265625" x="3.1378545089663703" y="20.22113505414029">by reducing a complex 
 problem to only one cause<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -1472,7 +1556,7 @@ problem to only one cause<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="left" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="141.970703125" x="9.885117471749652" y="163.63394471210486">by showing support 
+          <y:EdgeLabel alignment="left" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="141.970703125" x="4.989106119210589" y="163.47097679180152">by showing support 
 from a reference<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -1619,11 +1703,11 @@ a crowd<y:LabelModel>
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="250.56648514853146" y="143.56846534636938"/>
-            <y:Point x="251.4498267326892" y="402.65356944444454"/>
+            <y:Point x="250.56648514853146" y="402.65356944444454"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="left" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="224.974609375" x="8.152045654951962" y="362.7675189156082">by discouraging critical thought 
+          <y:EdgeLabel alignment="left" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="224.974609375" x="3.0417347261543455" y="362.43958631940154">by discouraging critical thought 
 and meaningful discussion<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
