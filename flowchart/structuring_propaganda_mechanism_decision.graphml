@@ -443,6 +443,9 @@ vagueness, confusion<y:LabelModel>
     </node>
     <node id="n23">
       <data key="d4"><![CDATA[definitions.html#associating_guilt_to_someone_something]]></data>
+      <data key="d5"><![CDATA[Moving blame and responsibility away
+ from themselves by attributing it to
+ others]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="138.63643121960337" x="471.55822916666807" y="12.152648654510784"/>
@@ -563,11 +566,7 @@ the argument	<y:LabelModel>
       <data key="d5"><![CDATA[discredit an opponent's proposition by mentioning 
 an event that discredit the opponent or distract 
 the attention from the 
-main claim: ``What about...?''
-Example: a father asks his daughter about her 
-bad grades in University and 
-she says " What about you ?..... 
-you never went to university "]]></data>
+main claim: ``What about...?'']]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="91.0" x="58.88867534722175" y="39.98238754339937"/>
@@ -585,7 +584,8 @@ you never went to university "]]></data>
     </node>
     <node id="n30">
       <data key="d4"><![CDATA[definitions.html#presenting_irrelevant_data]]></data>
-      <data key="d5"><![CDATA[Using data or issues that are irrelevant to validate an argument]]></data>
+      <data key="d5"><![CDATA[Using data or issues that are
+ irrelevant to validate an argument]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="102.52799999999996" x="47.360675347221786" y="88.71238754339947"/>
@@ -604,12 +604,11 @@ irrelevant data<y:LabelModel>
     </node>
     <node id="n31">
       <data key="d4"><![CDATA[definitions.html#misrepresentation_of_someone_position]]></data>
-      <data key="d5"><![CDATA[(straw men): when an opponent's proposition is substituted 
-with a similar one which is then refuted 
-in place of the original proposition. 
-Example: Student tells his professor that he thinks 
-some of Donald Trump's positions have merit. 
-Professor says he can't believe that the student believes in support racism]]></data>
+      <data key="d5"><![CDATA[(straw men): when an opponent's
+ proposition is substituted with a
+ similar one which is then refuted 
+in place of the original proposition.
+]]></data>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
           <y:Geometry height="40.0" width="138.0246913580247" x="11.863983989197038" y="-8.747612456600734"/>
