@@ -2,3 +2,9 @@ Link for downloading the software for reading and modifying the diagram:
 
 https://www.yworks.com/downloads#yEd
 
+
+Current Exporting Options
+
+format: png
+Margin: 3
+Scaling Factor: 0.76
